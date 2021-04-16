@@ -2,6 +2,7 @@
 sort: 1
 published: true
 lang: en
+permalink: /about/
 ---
 # Source Install
 ```note

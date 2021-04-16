@@ -30,7 +30,6 @@ source "https://rubygems.org"
 
 gem "jekyll-rtd-theme"
 gem "nokogiri"
-gem 'jekyll-multiple-languages-plugin'
 gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-polyglot"
