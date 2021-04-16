@@ -32,5 +32,4 @@ gem "jekyll-rtd-theme"
 gem "nokogiri"
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-polyglot"
-gem 'rake' , '>= 0.9.2'
+ 
