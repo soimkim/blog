@@ -1,7 +1,7 @@
 ---
 sort: 1
 published: true
-lang: ko
+lang: en
 ---
 # How to Run
 
