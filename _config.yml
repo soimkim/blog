@@ -43,3 +43,4 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-multiple-languages-plugin
